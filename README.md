@@ -12,7 +12,7 @@ para poder resetear los estilos de todos los browsers (navegadores) y asi van se
 
 ## Descripción
 
-Game Land es un repositorio de mini juegos que estamos desarrollando.
+Game Land es un repositorio de mini juegos.
 
 ## Tecnologías y Herramientas
 
